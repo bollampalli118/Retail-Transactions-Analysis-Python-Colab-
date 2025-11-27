@@ -1,5 +1,8 @@
 # Retail Transactions Analysis (Python / Colab)
-
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Active-success)
+![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
 This project explores a synthetic **retail transactions dataset** using Python.  
 It walks through a typical data analytics workflow:
 
