@@ -18,6 +18,9 @@ The notebook is written for **Google Colab**, but can also be run locally.
 ## 🧾 Dataset
 
 **File:** `Retail_Transactions_Dataset.csv`  
+📌 Note: Dataset not included in repository due to size limit (161MB).
+Dataset Download: Google Drive Link: <https://drive.google.com/file/d/1EszFXdUFNXa7etw_5VquoSIWENeZlEg_/view?usp=sharing>
+
 
 **Columns (main):**
 
