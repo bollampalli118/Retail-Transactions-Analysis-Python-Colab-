@@ -60,4 +60,4 @@ The analysis uses:
 - **scipy.stats** – statistical tools (imported for potential use)  
 - **sklearn.preprocessing.StandardScaler**, **sklearn.cluster.KMeans** – for potential advanced analysis (clustering), currently imported but not deeply used in this version
 
-The final Output link <https://colab.research.google.com/drive/184ZgzixEHimoeslxcrRz0wU3UAZjMEre#scrollTo=cbmFXjIuCbzs>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/184ZgzixEHimoeslxcrRz0wU3UAZjMEre)
